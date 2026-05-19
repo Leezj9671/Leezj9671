@@ -29,7 +29,7 @@ Building SEO & AI search systems for global brands from China 🌏
 * GSC / BigQuery / data-driven SEO analysis
 * AI-native content operations
 * Performance & Core Web Vitals
-* 
+
 ## Current Interests
 
 * AI-powered SEO operations
